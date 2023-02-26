@@ -55,9 +55,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=fehmida99&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/ft-fehmida-shaikh-6308a719a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ft. fehmida shaikh" height="30" width="40" /></a>
+<h2 align="left"><i class="fa-brands fa-weixin"></i>Connect with me:</h2>
+<p align="left"><a href="https://www.linkedin.com/in/ft-fehmida-shaikh-6308a719a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ft. fehmida shaikh" height="30" width="40" /></a>
   
 <a href="https://youtube.com/@fehmidainthekitchen4855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fehmida in the kitchen" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/fehmida1899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@fehmida1899" height="30" width="40" /></a> -->
