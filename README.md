@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Ankit Kumar
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Abdul Kamar Shaikh
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -13,8 +13,8 @@
 <h2></h2>
 
 <h3 align="center">
-    I am learning Full Stack Development from Masai School, Bangalore, India.<br />
-    I have completed my Diploma in Electronics and Communication from PUSA Institue of Technology, New Delhi, India.<br />
+    I am learning JAVA Full Stack Development.<br />
+    I have completed my Bachelor Of Engineering in Information Technology from Shah & Anchor Kutchhi Engineering College(SAKEC), Mumbai, India.<br />
     I like solving competitive coding problems, exploring new technologies and book reading.
 </h3>
 
@@ -33,13 +33,13 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🌱 I’m currently learning<strong> Full Stack Developement.</strong>
+    🌱 I’m currently learning<strong> Java Full Stack Developement.</strong>
 </p>
 
-📫 *How to reach me* **ankitsingh40068@gmail.com**
+📫 *How to reach me* **theabdul97@gmail.com**
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/abdul-k-shaikh"  target="_blank">LinkedIn</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
