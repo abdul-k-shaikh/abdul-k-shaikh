@@ -33,13 +33,13 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🌱 I’m currently learning<strong> Java Full Stack Developement.</strong>
+    🌱 I’m currently working as<strong> Java Full Stack Developement.</strong>
 </p>
 
-📫 *How to reach me* **theabdul97@gmail.com**
+📫 *How to reach me* [Email](mailto://theabdul97@gmail.com)
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/abdul-k-shaikh"  target="_blank">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on Linkedln: <a href="https://linkedin.com/in/abdul-k-shaikh"  target="_blank">LinkedIn</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
@@ -48,7 +48,7 @@
 <br>
 
 <p align="left" style='font-size: 16px;'> 
-  <img src="https://komarev.com/ghpvc/?username=Github2k10&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=abdul-k-shaikh&style=flat-square" />
 </p>
 </div>
 
