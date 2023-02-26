@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Abdul Kamar Shaikh
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Abdul K Shaikh
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
@@ -43,7 +43,7 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="https://github2k10.github.io/"  target="_blank">Portfolio</a></strong>
+    🔗 <strong>Visit my Portfoilo: <a href="https://github2k10.github/"  target="_blank">Portfolio</a></strong>
 </p>
 <br>
 
@@ -63,7 +63,7 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,c,cpp,css,git,github,html,js,java,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,java,springboot,microservices,css,git,github,html,js,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass,spring" alt="skills logos"  /> 
 </div> 
@@ -78,11 +78,11 @@
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=github2k10&show_icons=true&locale=en&theme=gruvbox" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api?username=github2k10&show_icons=true&locale=en&theme=gruvbox" alt="abdul-k-shaikh" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=gruvbox" alt="github2k10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=gruvbox" alt="abdul-k-shaikh" />
 </p>
 
 <p align="center" >
