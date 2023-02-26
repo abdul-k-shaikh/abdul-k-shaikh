@@ -63,7 +63,7 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=java,spring,angular,maven,css,bootstrap,html,git,github,js,linux,mysql,sonarqube,wordpress,netlify,vscode" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=java,spring,angular,maven,css,bootstrap,html,git,github,js,linux,mysql,wordpress,netlify,vscode,eclipse" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,kubernetes,docker,rabbitmq,hibernate,sass" alt="skills logos"  /> 
 </div> 
