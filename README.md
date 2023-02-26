@@ -54,7 +54,7 @@
 
 <br>
 
-<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=github2k10&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
+<p align="center" style='margin: 16px 4px 8px;'> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-k-shaikh&theme=juicyfresh&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="github2k10" /></a> </p>
 
 <h2></h2>
 
@@ -63,7 +63,7 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=arduino,java,springboot,microservices,css,git,github,html,js,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=java,spring,microservices,css,git,github,html,js,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
     <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass,spring" alt="skills logos"  /> 
 </div> 
