@@ -13,9 +13,9 @@
 <h2></h2>
 
 <h3 align="center">
-    I am learning JAVA Full Stack Development.<br />
+    I am working as a JAVA Full Stack Developer.<br />
     I have completed my Bachelor Of Engineering in Information Technology from Shah & Anchor Kutchhi Engineering College(SAKEC), Mumbai, India.<br />
-    I like solving competitive coding problems, exploring new technologies and book reading.
+    I like solving competitive coding problems, exploring new technologies and sharing knowledge with others.
 </h3>
 
 <br>
@@ -33,17 +33,17 @@
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🌱 I’m currently working as<strong> Java Full Stack Developement.</strong>
+    🌱 I’m currently working as<strong> Java Full Stack Developer.</strong>
 </p>
 
 📫 *How to reach me* [Email](mailto://theabdul97@gmail.com)
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Connect with me on Linkedln: <a href="https://linkedin.com/in/abdul-k-shaikh"  target="_blank">LinkedIn</a></strong>
+    🔗 <strong>Connect with me on Linkedln: <a href="https://linkedin.com/in/abdul-k-shaikh"  target="_blank">Linkedin</a></strong>
 </p>
 
 <p align='left' style='font-size: 16px;'>
-    🔗 <strong>Visit my Portfoilo: <a href="https://github2k10.github/"  target="_blank">Portfolio</a></strong>
+    🔗 <strong>Visit my Portfoilo: <a href="https://www.hamraahfoundation.org/"  target="_blank">Portfolio</a></strong>
 </p>
 <br>
 
