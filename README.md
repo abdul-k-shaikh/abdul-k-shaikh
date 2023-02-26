@@ -63,9 +63,9 @@
 </h3>
 
 <div align='center' >
-  <img style='text-align:center;' src="https://skillicons.dev/icons?i=java,spring,microservices,css,git,github,html,js,linux,mysql,netlify,vscode" alt="skills logos"  /> <br> 
+  <img style='text-align:center;' src="https://skillicons.dev/icons?i=java,spring,microservices,css,git,github,html,js,linux,mysql,wordpress,netlify,vscode" alt="skills logos"  /> <br> 
     <h3> <strong> Actively Learning: </strong></h3>
-    <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass,spring" alt="skills logos"  /> 
+    <img style='text-align:center;' src="https://skillicons.dev/icons?i=aws,bootstrap,figma,hibernate,maven,sass" alt="skills logos"  /> 
 </div> 
 
 <br>
@@ -74,15 +74,15 @@
     Stats:
 </h3>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=github2k10&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-k-shaikh&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="github2k10" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api?username=github2k10&show_icons=true&locale=en&theme=gruvbox" alt="abdul-k-shaikh" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdul-k-shaikh&show_icons=true&locale=en&theme=gruvbox" alt="abdul-k-shaikh" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=github2k10&theme=gruvbox" alt="abdul-k-shaikh" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-k-shaikh&theme=gruvbox" alt="abdul-k-shaikh" />
 </p>
 
 <p align="center" >
@@ -91,5 +91,5 @@
 
     
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github.com/Github2k10/Github2k10/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
+    <img src="https://github.com/abdul-k-shaikh/abdul-k-shaikh/blob/output/github-contribution-grid-snake.svg" alt="My snake eating contribution graph" />
 </p>
