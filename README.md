@@ -74,7 +74,7 @@
     Stats:
 </h3>
 <p align="center" style='margin: 8px 4px;'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-k-shaikh&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="github2k10" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-k-shaikh&show_icons=true&locale=en&layout=compact&theme=gruvbox&langs_count=10" alt="abdul-k-shaikh" />
 </p>
 
 <p align="center" style='margin: 8px 4px;'>
